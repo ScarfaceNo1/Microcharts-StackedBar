@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microcharts</id>
+    <version>$version$</version>
+    <title>Microcharts</title>
+    <authors>Aloïs Deniel</authors>
+    <owners>Aloïs Deniel</owners>
+    <licenseUrl>https://github.com/aloisdeniel/Microcharts/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/aloisdeniel/Microcharts/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/aloisdeniel/Microcharts/master/Documentation/Logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Create cross-platforms (Xamarin, Windows, ...) simple charts.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>xamarin ios android chart skia</tags>
+    <dependencies>
+        <group>
+            <dependency id="SkiaSharp" version="1.59.1" />
+            <dependency id="System.ValueTuple" version="4.4.0" />
+        </group>
+        <group targetFramework="MonoAndroid10">
+            <dependency id="SkiaSharp.Views"  version="1.59.1.1" />
+        </group>
+        <group targetFramework="Xamarin.iOS10">
+            <dependency id="SkiaSharp.Views"  version="1.59.1.1" />
+        </group>
+        <group targetFramework="uap">
+            <dependency id="SkiaSharp.Views"  version="1.59.1.1" />
+        </group>
+        <group targetFramework="xamarinmac">
+            <dependency id="SkiaSharp.Views"  version="1.59.1.1" />
+        </group>
+    </dependencies>
+  </metadata>
+   <files>
+     <!-- Standard -->
+     <file src="..\Sources\Microcharts\bin\Release\netstandard1.4\Microcharts.dll" target="lib\netstandard1.4\Microcharts.dll"/>
+
+     <!-- Android -->
+     <file src="..\Sources\Microcharts.Droid\bin\Release\Microcharts.dll" target="lib\MonoAndroid10\Microcharts.dll"/>
+     <file src="..\Sources\Microcharts.Droid\bin\Release\Microcharts.Droid.dll" target="lib\MonoAndroid10\Microcharts.Droid.dll"/>
+
+     <!-- iOS -->
+	 <file src="..\Sources\Microcharts.iOS\bin\Release\Microcharts.dll" target="lib\Xamarin.iOS10\Microcharts.dll"/>
+	 <file src="..\Sources\Microcharts.iOS\bin\Release\Microcharts.iOS.dll" target="lib\Xamarin.iOS10\Microcharts.iOS.dll"/>
+     
+     <!-- UWP -->
+	 <file src="..\Sources\Microcharts.Uwp\bin\Release\Microcharts.dll" target="lib\uap\Microcharts.dll"/>
+	 <file src="..\Sources\Microcharts.Uwp\bin\Release\Microcharts.Uwp.dll" target="lib\uap\Microcharts.Uwp.dll"/>
+     
+     <!-- macOS -->
+	 <file src="..\Sources\Microcharts.macOS\bin\Release\Microcharts.dll" target="lib\xamarinmac\Microcharts.dll"/>
+	 <file src="..\Sources\Microcharts.macOS\bin\Release\Microcharts.macOS.dll" target="lib\xamarinmac\Microcharts.macOS.dll"/>
+   </files>
+</package>
