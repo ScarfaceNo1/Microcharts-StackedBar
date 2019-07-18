@@ -1,0 +1,4 @@
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Samples.Forms\bin\Debug\Microcharts.Samples.Forms.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Droid\obj\Debug\90\Microcharts.Samples.Forms.Droid.nuget.stamp
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Droid\obj\Debug\90\Microcharts.Samples.Forms.Droid.csprojAssemblyReference.cache

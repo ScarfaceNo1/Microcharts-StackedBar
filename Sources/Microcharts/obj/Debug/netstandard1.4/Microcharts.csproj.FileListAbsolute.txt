@@ -1,0 +1,10 @@
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.xml
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.deps.json
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.pdb
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.csproj.CoreCompileInputs.cache
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.AssemblyInfoInputs.cache
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.AssemblyInfo.cs
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.pdb
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.csprojAssemblyReference.cache

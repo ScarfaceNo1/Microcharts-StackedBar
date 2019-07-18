@@ -1,0 +1,12 @@
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.Forms.deps.json
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.Forms.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.Forms.pdb
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.pdb
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\bin\Debug\netstandard1.4\Microcharts.xml
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.csproj.CoreCompileInputs.cache
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.AssemblyInfoInputs.cache
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.AssemblyInfo.cs
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.csproj.CopyComplete
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.dll
+C:\Users\KaufmannD\Downloads\Microcharts-master\Sources\Microcharts.Forms\obj\Debug\netstandard1.4\Microcharts.Forms.pdb
